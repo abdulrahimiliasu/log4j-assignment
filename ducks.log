@@ -1,0 +1,5 @@
+0 20:28:25.223 [pkg.Main.main()] DEBUG pkg.Main - Five little ducks went out one day,
+2 20:28:25.429 [pkg.Main.main()] DEBUG pkg.Main - Mother duck said, "quack quack quack quack,"
+4 20:28:25.631 [pkg.Main.main()] DEBUG pkg.Main - Four little ducks went out one day,
+6 20:28:25.837 [pkg.Main.main()] DEBUG pkg.Main - Mother duck said, "quack quack quack quack,"
+8 20:28:26.042 [pkg.Main.main()] DEBUG pkg.Main - Three little ducks went out one day,

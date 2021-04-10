@@ -1,0 +1,10 @@
+0 20:28:25.223 [pkg.Main.main()] DEBUG pkg.Main - Five little ducks went out one day,
+1 20:28:25.328 [pkg.Main.main()] WARN  pkg.Main - Over the hills and far away.
+2 20:28:25.429 [pkg.Main.main()] DEBUG pkg.Main - Mother duck said, "quack quack quack quack,"
+3 20:28:25.530 [pkg.Main.main()] WARN  pkg.Main - But only four little ducks came back.
+4 20:28:25.631 [pkg.Main.main()] DEBUG pkg.Main - Four little ducks went out one day,
+5 20:28:25.734 [pkg.Main.main()] WARN  pkg.Main - Over the hills and far away.
+6 20:28:25.837 [pkg.Main.main()] DEBUG pkg.Main - Mother duck said, "quack quack quack quack,"
+7 20:28:25.939 [pkg.Main.main()] FATAL pkg.Main - But only three little ducks came back.
+8 20:28:26.042 [pkg.Main.main()] DEBUG pkg.Main - Three little ducks went out one day,
+9 20:28:26.143 [pkg.Main.main()] INFO  pkg.Main - Over the hills and far away2.
